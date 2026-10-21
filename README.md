@@ -32,9 +32,7 @@ Menambahkan cadangan penyimpanan sebesar 30% dari estimasi akumulasi data tahuna
 
 Menyimpan hasil analisis dalam format CSV agar dapat digunakan kembali. 
 
- 4. Asumsi Perhitungan Storage
-
-      Perhitungan menggunakan asumsi berikut:
+ 4. Asumsi Perhitungan Storage Perhitungan menggunakan asumsi berikut:
 
       Data bulan pertama merupakan dasar estimasi.
 
